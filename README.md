@@ -1,8 +1,8 @@
 # Fundamentos de Programación en Python
 
-- Aquí se alojan todos los retos que se desarrollaron en el Ciclo 1
-
 > **Misión TIC 2022 - Ciclo1 - Python :snake:**
+
+- Aquí se alojan todos los retos que se desarrollaron en el Ciclo 1
 
 > **Universidad Tecnológica de Pereira**
 
