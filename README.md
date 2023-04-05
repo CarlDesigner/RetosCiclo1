@@ -7,3 +7,5 @@
 > **Universidad Tecnológica de Pereira**
 
 - *Reto 1* - *Reto 2* - *Reto 3* - *Reto 4* - *Reto 5*
+
+Author: `@CarlDesigner`
